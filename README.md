@@ -1,2 +1,2 @@
-# pre-publications
-The Pre-Publications Subtree
+# prepublications
+The Prepublications Subtree
